@@ -1,9 +1,9 @@
 
 
 
-<h4>Passionate about the IT world, in constant growth </br>
-I wish to enter the IT world, to find places where I can unse my creativity and problem solving skills to create or rework ideas </br>
-I'm looking to find a team where we can work together to create something amazing
+<h4>I'm passionate about the IT world and to be in constant growth </br>
+I wish to enter the IT world, to find places where I can use my creativity and problem solving skills to create or rework proyects </br>
+I'm looking to find a team where we can work together to create something amazing!
 </h4>
 
 
