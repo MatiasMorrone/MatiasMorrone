@@ -1,5 +1,5 @@
 
-
+<img src="https://github.com/MatiasMorrone/MatiasMorrone/blob/main/Bijou%20Tech%20Solutions.jpg" alt="logo">
 
 <h4>I'm passionate about the IT world and to be in constant growth </br>
 I wish to enter the IT world, to find places where I can use my creativity and problem solving skills to create or rework proyects </br>
