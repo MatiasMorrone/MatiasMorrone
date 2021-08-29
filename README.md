@@ -1,17 +1,37 @@
-### Hi there 👋 I'm Matias Morrone 
-##Full Stack Developer 
 
-<!--
-**MatiasMorrone/MatiasMorrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Passionate about the IT world, in constant growth </br>
+I wish to enter the IT world, to find places where I can unse my creativity and problem solving skills to create or rework ideas </br>
+I'm looking to find a team where we can work together to create something amazing
+</h4>
+
+
+```js 
+ let aprendizajeEnCurso = {
+    Henry: "Full Stack Developer . Intensive bootcamp, +700 hs of code, based in real proyects and practics",
+   
+ };
+ 
+ let tecnologias = [ 
+    "JavaScript",
+    "ReactJS",
+    "Redux",
+    "NodeJS",
+    "Express",
+    "Sequelize",
+    "PostgreSQL",
+    "GIT",
+    "HTML", 
+    "CSS", 
+    "SASS" 
+];
+```
+
+<h3>If you want to now more about me:</h3>
+<h3 align="left">Contact me</h3>
+<h4>📫 matiasmorrone@live.com</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/matias-morrone-979823207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-morrone-979823207/" height="30" width="40" /> /MatiasMorrone</a>
+</p>
+
