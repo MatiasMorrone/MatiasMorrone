@@ -24,7 +24,8 @@ I'm looking to find a team where we can work together to create something amazin
     "GIT",
     "HTML", 
     "CSS", 
-    "SASS" 
+    "SASS",
+    "AJAX"
 ];
 ```
 
