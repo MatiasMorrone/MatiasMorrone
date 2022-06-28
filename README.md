@@ -18,14 +18,24 @@ I'm looking to find a team where we can work together to create something amazin
     "ReactJS",
     "Redux",
     "NodeJS",
+    "Typescript",
+    "MUI",
+    "Ant-design",
+    "MongoDB",
+    "Mongoose",
+    "Zustand",
+    "Cypress",
+    "Jest",
+    "Storybook",
     "Express",
     "Sequelize",
     "PostgreSQL",
     "GIT",
+    "Scrum methods",
     "HTML", 
-    "CSS", 
+    "CSS",
+    "Styled components",
     "SASS",
-    "AJAX"
 ];
 ```
 
