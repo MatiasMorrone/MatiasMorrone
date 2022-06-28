@@ -3,8 +3,8 @@
 
 <h4>I'm passionate about the IT world and that you can acomplish with technology </br>
 </h4>
-`js
- 
+```js 
+
  let tecnologias = [ 
     "JavaScript",
     "ReactJS",
