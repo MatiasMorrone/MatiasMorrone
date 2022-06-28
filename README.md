@@ -1,17 +1,9 @@
 
 <img src="https://github.com/MatiasMorrone/MatiasMorrone/blob/main/Bijou%20Tech%20Solutions.jpg" alt="logo">
 
-<h4>I'm passionate about the IT world and to be in constant growth </br>
-I wish to enter the IT world, to find places where I can use my creativity and problem solving skills to create or rework proyects </br>
-I'm looking to find a team where we can work together to create something amazing!
+<h4>I'm passionate about the IT world and that you can acomplish with technology </br>
 </h4>
 
-
-```js 
- let aprendizajeEnCurso = {
-    Henry: "Full Stack Developer . Intensive bootcamp, +700 hs of code, based in real proyects and practics",
-   
- };
  
  let tecnologias = [ 
     "JavaScript",
