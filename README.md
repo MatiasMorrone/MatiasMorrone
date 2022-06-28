@@ -39,7 +39,7 @@ I'm looking to find a team where we can work together to create something amazin
 ];
 ```
 
-<h3>If you want to now more about me:</h3>
+<h3>If you want to know more:</h3>
 <h3 align="left">Contact me</h3>
 <h4>📫 matiasmorrone@live.com</h4>
 <p align="left">
